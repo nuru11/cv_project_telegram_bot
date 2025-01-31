@@ -1,0 +1,13 @@
+{
+  "sessions": [
+    {
+      "id": "790797252:790797252",
+      "data": {
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwiaXNBZG1pbiI6dHJ1ZSwiaWF0IjoxNzM4MzEzMjQwLCJleHAiOjE3MzgzMTY4NDB9.peaME4NA7ZIM8Uejv-dkV1ElpmLTi1NiiI01ibw6XuE",
+        "agentName": "admin",
+        "offset": 30,
+        "limit": 10
+      }
+    }
+  ]
+}
